@@ -1,0 +1,8 @@
+ext {
+    extName = '<Kumapage>'
+    extClass = '.<kumapage>'
+    extVersionCode = 1
+    isNsfw = true
+}
+
+apply from: "$rootDir/common.gradle"
